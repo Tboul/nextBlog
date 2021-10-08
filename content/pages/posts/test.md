@@ -38,6 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 subtitle: פוסט נסיון האם ניתן לכתוב פוסט בעברית
+hide_header: true
 ---
 
 ![Hiking](/images/2.jpg)
