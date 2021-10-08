@@ -1,7 +1,7 @@
 ---
 title: פוסט נסיון
  האם ניתן לכתוב פוסט בעברית
-date: '2021'
+date: '2021-10-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
