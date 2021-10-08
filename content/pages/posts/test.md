@@ -1,6 +1,5 @@
 ---
-title: פוסט נסיון
- האם ניתן לכתוב פוסט בעברית
+title: פוסט נסיון האם ניתן לכתוב פוסט בעברית
 date: '2021-10-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
@@ -38,6 +37,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+subtitle: פוסט נסיון האם ניתן לכתוב פוסט בעברית
 ---
 
 ![Hiking](/images/2.jpg)
