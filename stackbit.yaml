@@ -350,6 +350,7 @@ models:
         label: Title
         description: The title of the post
         required: true
+        default: New post
       - type: string
         name: subtitle
         label: Subtitle
