@@ -1,6 +1,6 @@
 ---
 title: פוסט נסיון
- האם ניתן לכתוב 
+ האם ניתן לכתוב פו
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 thumb_img_alt: A man standing on a rock cliff overlooking a river
